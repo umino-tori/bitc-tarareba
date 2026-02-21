@@ -84,10 +84,6 @@ bitcoin/
 ├── init_db.py        # DB初期化スクリプト（コマンドライン用）
 ├── requirements.txt  # 依存ライブラリ一覧
 ├── btc_data.db       # SQLite データベース（初回取得後に生成）
-├── instructions/     # 仕様・解説ドキュメント
-│   ├── main-01.md
-│   ├── 解説.md
-│   └── プレゼン.md
 └── 解説資料1.md      # シミュレーション計算ロジック解説
 ```
 
