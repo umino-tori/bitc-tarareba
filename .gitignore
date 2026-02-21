@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+#------------------------------------------------------------
+.venv
+instructions
+btc_data.db
+.claude
+.gitignore*Identifier
